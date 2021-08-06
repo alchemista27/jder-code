@@ -1,0 +1,94 @@
+/* Kode untuk mengatur header
+dari OJS 3*/
+.pkp_site_name .is_img img {
+    display: inline-block;
+    max-height: 100px;
+    max-width: 100%;
+    width: auto;
+    height: auto;
+}
+.pkp_structure_page {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.pkp_site_name_wrapper .pkp_navigation_primary_row {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.pkp_site_name {
+    padding-top: 5px;
+    padding-bottom: 2px;
+}
+.obj_article_details .abstract {
+    text-align: justify;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+/*Kode untuk sidebar*/
+.sidebar_menu {
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 10px;
+}
+.sidebar_menu h4{
+    font-size: 16px;
+    background-color: #082032;
+    color: #F1ECC3;
+    font-style: normal;
+    margin: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 100%;
+    font-variant: small-caps;
+}
+.sidebar_menu ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+.sidebar_menu ul li{
+    background-color: #334756;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.sidebar_menu ul li:hover{
+    background-color: #FFD371;
+    color: #334756;
+}
+.sidebar_menu ul li a{
+    text-decoration: none;
+    color: #F1ECC3;
+}
+.sidebar_menu ul li a:active{
+    color: #FF4848;
+}
+.sidebar_menu ul li a:visited{
+    color: #FFD371;
+}
+.sidebar_menu ul li a:hover{
+    color: #334756;
+}
+
+/*Kode untuk info di sidebar*/
+.link_tambahan{
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 10px;
+}
+.link_tambahan h4{
+    font-size: 16px;
+    background-color: #082032;
+    color: #F1ECC3;
+    font-style: normal;
+    margin: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 100%;
+    font-variant: small-caps;
+}
