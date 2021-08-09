@@ -135,6 +135,12 @@ dari OJS 3*/
     color: #082032;
     font-variant: small-caps;
 }
+#indeksasi hr{
+    border: none;
+    background-color: #082032;
+    height: 1px;
+    width: 100%;
+}
 .flex_indeks{
     display: flex;
     flex-direction: row;
@@ -143,9 +149,8 @@ dari OJS 3*/
     align-items: center;
 }
 .flex_indeks div{
-    height: 1000px;
+    height: 350px;
     width: 100%;
-    margin: 10px;
 }
 .flex_indeks div ul{
     list-style-type: none;
@@ -164,3 +169,11 @@ dari OJS 3*/
     width: 150px;
     height: 100%;
 }
+#peta_redaksi hr{
+    border: none;
+    background-color: #082032;
+    height: 1px;
+    width: 100%;
+}
+
+/*Kode untuk halaman tentang Jurnal*/
