@@ -259,8 +259,8 @@ dari OJS 3*/
 }
 .redaksi_kolom div img{
     padding-left: 50px;
-    height: 100%;
-    width: 80px;
+    height: auto;
+    width: auto;
 }
 .redaksi_kolom div ul{
     list-style-type: none;
